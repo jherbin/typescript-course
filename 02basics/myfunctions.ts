@@ -1,3 +1,5 @@
+// 1:15:30
+
 function addTwo(num: number): number {
     return num + 2;
 }
