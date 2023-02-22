@@ -1,4 +1,5 @@
 // 1:15:30
+// https://www.youtube.com/watch?v=30LWjhZzg50
 
 function addTwo(num: number): number {
     return num + 2;
